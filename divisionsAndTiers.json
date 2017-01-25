@@ -1,0 +1,137 @@
+[
+{
+	"tier": "Challenger",
+	"division": "I",
+	"completed": false
+},
+{
+	"tier": "Master",
+	"division": "I",
+	"completed": false
+},
+{
+	"tier": "Diamond",
+	"division": "I",
+	"completed": false
+},
+{
+	"tier": "Diamond",
+	"division": "II",
+	"completed": false
+},
+{
+	"tier": "Diamond",
+	"division": "III",
+	"completed": false
+},
+{
+	"tier": "Diamond",
+	"division": "IV",
+	"completed": false
+},
+{
+	"tier": "Diamond",
+	"division": "V",
+	"completed": false
+},
+{
+	"tier": "Platinum",
+	"division": "I",
+	"completed": false
+},
+{
+	"tier": "Platinum",
+	"division": "II",
+	"completed": false
+},
+{
+	"tier": "Platinum",
+	"division": "III",
+	"completed": false
+},
+{
+	"tier": "Platinum",
+	"division": "IV",
+	"completed": false
+},
+{
+	"tier": "Platinum",
+	"division": "V",
+	"completed": false
+},
+{
+	"tier": "Gold",
+	"division": "I",
+	"completed": false
+},
+{
+	"tier": "Gold",
+	"division": "II",
+	"completed": false
+},
+{
+	"tier": "Gold",
+	"division": "III",
+	"completed": false
+},
+{
+	"tier": "Gold",
+	"division": "IV",
+	"completed": false
+},
+{
+	"tier": "Gold",
+	"division": "V",
+	"completed": false
+},
+{
+	"tier": "Silver",
+	"division": "I",
+	"completed": false
+},
+{
+	"tier": "Silver",
+	"division": "II",
+	"completed": false
+},
+{
+	"tier": "Silver",
+	"division": "III",
+	"completed": false
+},
+{
+	"tier": "Silver",
+	"division": "IV",
+	"completed": false
+},
+{
+	"tier": "Silver",
+	"division": "V",
+	"completed": false
+},
+{
+	"tier": "Bronze",
+	"division": "I",
+	"completed": false
+},
+{
+	"tier": "Bronze",
+	"division": "II",
+	"completed": false
+},
+{
+	"tier": "Bronze",
+	"division": "III",
+	"completed": false
+},
+{
+	"tier": "Bronze",
+	"division": "IV",
+	"completed": false
+},
+{
+	"tier": "Bronze",
+	"division": "V",
+	"completed": false
+}
+]
