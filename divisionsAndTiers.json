@@ -2,136 +2,163 @@
 {
 	"tier": "CHALLENGER",
 	"division": "I",
+	"shortHand": "CI",
 	"completed": false
 },
 {
 	"tier": "MASTER",
 	"division": "I",
+	"shortHand": "MI",
 	"completed": false
 },
 {
 	"tier": "DIAMOND",
 	"division": "I",
+	"shortHand": "DI",
 	"completed": false
 },
 {
 	"tier": "DIAMOND",
 	"division": "II",
+	"shortHand": "DII",
 	"completed": false
 },
 {
 	"tier": "DIAMOND",
 	"division": "III",
+	"shortHand": "DIII",
 	"completed": false
 },
 {
 	"tier": "DIAMOND",
 	"division": "IV",
+	"shortHand": "DIV",
 	"completed": false
 },
 {
 	"tier": "DIAMOND",
 	"division": "V",
+	"shortHand": "DV",
 	"completed": false
 },
 {
 	"tier": "PLATINUM",
 	"division": "I",
+	"shortHand": "PI",
 	"completed": false
 },
 {
 	"tier": "PLATINUM",
 	"division": "II",
+	"shortHand": "PII",
 	"completed": false
 },
 {
 	"tier": "PLATINUM",
 	"division": "III",
+	"shortHand": "PIII",
 	"completed": false
 },
 {
 	"tier": "PLATINUM",
 	"division": "IV",
+	"shortHand": "PIV",
 	"completed": false
 },
 {
 	"tier": "PLATINUM",
 	"division": "V",
+	"shortHand": "PV",
 	"completed": false
 },
 {
 	"tier": "GOLD",
 	"division": "I",
+	"shortHand": "GI",
 	"completed": false
 },
 {
 	"tier": "GOLD",
 	"division": "II",
+	"shortHand": "GII",
 	"completed": false
 },
 {
 	"tier": "GOLD",
 	"division": "III",
+	"shortHand": "GIII",
 	"completed": false
 },
 {
 	"tier": "GOLD",
 	"division": "IV",
+	"shortHand": "GIV",
 	"completed": false
 },
 {
 	"tier": "GOLD",
 	"division": "V",
+	"shortHand": "GV",
 	"completed": false
 },
 {
 	"tier": "SILVER",
 	"division": "I",
+	"shortHand": "SI",
 	"completed": false
 },
 {
 	"tier": "SILVER",
 	"division": "II",
+	"shortHand": "SII",
 	"completed": false
 },
 {
 	"tier": "SILVER",
 	"division": "III",
+	"shortHand": "SIII",
 	"completed": false
 },
 {
 	"tier": "SILVER",
 	"division": "IV",
+	"shortHand": "SIV",
 	"completed": false
 },
 {
 	"tier": "SILVER",
 	"division": "V",
+	"shortHand": "SV",
 	"completed": false
 },
 {
 	"tier": "BRONZE",
 	"division": "I",
+	"shortHand": "BI",
 	"completed": false
 },
 {
 	"tier": "BRONZE",
 	"division": "II",
+	"shortHand": "BII",
 	"completed": false
 },
 {
 	"tier": "BRONZE",
 	"division": "III",
+	"shortHand": "BIII",
 	"completed": false
 },
 {
 	"tier": "BRONZE",
 	"division": "IV",
+	"shortHand": "BIV",
 	"completed": false
 },
 {
 	"tier": "BRONZE",
 	"division": "V",
+	"shortHand": "BV",
 	"completed": false
 }
 ]
