@@ -1,136 +1,136 @@
 [
 {
-	"tier": "Challenger",
+	"tier": "CHALLENGER",
 	"division": "I",
 	"completed": false
 },
 {
-	"tier": "Master",
+	"tier": "MASTER",
 	"division": "I",
 	"completed": false
 },
 {
-	"tier": "Diamond",
+	"tier": "DIAMOND",
 	"division": "I",
 	"completed": false
 },
 {
-	"tier": "Diamond",
+	"tier": "DIAMOND",
 	"division": "II",
 	"completed": false
 },
 {
-	"tier": "Diamond",
+	"tier": "DIAMOND",
 	"division": "III",
 	"completed": false
 },
 {
-	"tier": "Diamond",
+	"tier": "DIAMOND",
 	"division": "IV",
 	"completed": false
 },
 {
-	"tier": "Diamond",
+	"tier": "DIAMOND",
 	"division": "V",
 	"completed": false
 },
 {
-	"tier": "Platinum",
+	"tier": "PLATINUM",
 	"division": "I",
 	"completed": false
 },
 {
-	"tier": "Platinum",
+	"tier": "PLATINUM",
 	"division": "II",
 	"completed": false
 },
 {
-	"tier": "Platinum",
+	"tier": "PLATINUM",
 	"division": "III",
 	"completed": false
 },
 {
-	"tier": "Platinum",
+	"tier": "PLATINUM",
 	"division": "IV",
 	"completed": false
 },
 {
-	"tier": "Platinum",
+	"tier": "PLATINUM",
 	"division": "V",
 	"completed": false
 },
 {
-	"tier": "Gold",
+	"tier": "GOLD",
 	"division": "I",
 	"completed": false
 },
 {
-	"tier": "Gold",
+	"tier": "GOLD",
 	"division": "II",
 	"completed": false
 },
 {
-	"tier": "Gold",
+	"tier": "GOLD",
 	"division": "III",
 	"completed": false
 },
 {
-	"tier": "Gold",
+	"tier": "GOLD",
 	"division": "IV",
 	"completed": false
 },
 {
-	"tier": "Gold",
+	"tier": "GOLD",
 	"division": "V",
 	"completed": false
 },
 {
-	"tier": "Silver",
+	"tier": "SILVER",
 	"division": "I",
 	"completed": false
 },
 {
-	"tier": "Silver",
+	"tier": "SILVER",
 	"division": "II",
 	"completed": false
 },
 {
-	"tier": "Silver",
+	"tier": "SILVER",
 	"division": "III",
 	"completed": false
 },
 {
-	"tier": "Silver",
+	"tier": "SILVER",
 	"division": "IV",
 	"completed": false
 },
 {
-	"tier": "Silver",
+	"tier": "SILVER",
 	"division": "V",
 	"completed": false
 },
 {
-	"tier": "Bronze",
+	"tier": "BRONZE",
 	"division": "I",
 	"completed": false
 },
 {
-	"tier": "Bronze",
+	"tier": "BRONZE",
 	"division": "II",
 	"completed": false
 },
 {
-	"tier": "Bronze",
+	"tier": "BRONZE",
 	"division": "III",
 	"completed": false
 },
 {
-	"tier": "Bronze",
+	"tier": "BRONZE",
 	"division": "IV",
 	"completed": false
 },
 {
-	"tier": "Bronze",
+	"tier": "BRONZE",
 	"division": "V",
 	"completed": false
 }
